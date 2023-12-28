@@ -47,7 +47,6 @@ wget https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.bin
 # **Testing**
 
 > **FOR THE PDF_TRANSLATION**
-> 
 
 **Go to indicTrans directory and run the pdf_translation_api.py**
 
@@ -72,7 +71,6 @@ uvicorn pdf_translation_api:app --reload
 1. Hit the **SEND** button
 
 > **FOR JUST THE TRANSLATION OF THE TEXT**
-> 
 
 **Go to indicTrans directory and run the pdf_translation_api.py**
 
