@@ -13,6 +13,10 @@
 
 `source venv/bin/activate`
 
+**Download the GitHub repository**
+
+`git clone https://github.com/ALKRIS-55/translate-pdf.git`
+
 **Install the dependencies**
 
 `pip install -r requirements.txt`
