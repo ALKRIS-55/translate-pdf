@@ -9,11 +9,10 @@ mosestokenizer
 subword-nmt
 uvicorn
 fasttext
-"fastapi[all]"
+fastapi[all]
 requests
 python-multipart
 httpie
-PIL
 pillow
 pdf2image
 poppler-utils
