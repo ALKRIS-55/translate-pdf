@@ -34,6 +34,7 @@ cd ..
 
 # Add the fairseq folder to the PATH
 echo 'export PYTHONPATH=$PYTHONPATH:/path/to/your/home/directory/fairseq/' >> ~/.bashrc
+echo 'export PYTHONPATH=$PYTHONPATH:/path/to/your/home/directory/indicTrans/' >> ~/.bashrc
 source ~/.bashrc
 
 # Activate the virtual environment if it was deactivated from above code
