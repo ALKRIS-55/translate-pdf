@@ -4,6 +4,7 @@
 **Download the GitHub repository**
 
 `git clone https://github.com/ALKRIS-55/translate-pdf.git`
+
 `cd translate-pdf`
 
 **Install virtual environment**
