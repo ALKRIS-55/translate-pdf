@@ -1,6 +1,10 @@
 # translate-pdf
 # Setup
 
+**Download the GitHub repository**
+
+`git clone https://github.com/ALKRIS-55/translate-pdf.git`
+
 **Install virtual environment**
 
 `sudo apt install python3-venv -y`
@@ -12,10 +16,6 @@
 **Activate the virtual environment**
 
 `source venv/bin/activate`
-
-**Download the GitHub repository**
-
-`git clone https://github.com/ALKRIS-55/translate-pdf.git`
 
 **Install the dependencies**
 
