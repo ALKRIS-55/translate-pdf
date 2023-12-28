@@ -68,7 +68,6 @@ uvicorn pdf_translation_api:app --reload
 | file | Choose the file from your system |
 | vernacular_pages_num | Enter the number on which the language is not English. The page number should be separated by the commas. For eg. “2,3,5” |
 | language | Specify the vernacular language. For eg. “Hindi”  |
-
 5. Hit the **SEND** button
 
 > **FOR JUST THE TRANSLATION OF THE TEXT**
@@ -93,5 +92,4 @@ uvicorn translation_api:app --reload
     "text": "அவனுக்கு நம்மைப் தெரியும் என்று தோன்றுகிறது"
 }
 ```
-
 5. Hit the **SEND** button
